@@ -78,7 +78,7 @@
     </style>
 </head>
 <body>
-<h2>The Game!</h2>
+<h2>The Stu Game!</h2>
 
 <c:url value="/home" var="homePage"/>
 <c:url value="/game/start" var="startPage"/>
